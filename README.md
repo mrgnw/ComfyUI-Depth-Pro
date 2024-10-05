@@ -1,4 +1,4 @@
-Testing out [spacepxl/ComfyUI-Depth-Pro]((https://github.com/spacepxl/ComfyUI-Depth-Pro))
+Testing out [spacepxl/ComfyUI-Depth-Pro](https://github.com/spacepxl/ComfyUI-Depth-Pro)
 
 # ComfyUI-Depth-Pro
 
